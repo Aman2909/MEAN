@@ -1,2 +1,2 @@
 # MEAN
-All the codes from MEAN course on Coursera
+All the code files from MEAN course on Coursera
